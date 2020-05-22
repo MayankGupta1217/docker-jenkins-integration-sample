@@ -10,13 +10,5 @@
 <build>
     <finalName>docker-jenkins-integration-sample</finalName>
 </build>
-         
- <dependencies>
-         <dependency>
-  <groupId>com.spotify</groupId>
-  <artifactId>docker-client</artifactId>
-  <version>LATEST-VERSION</version>
-   </dependency>
-</dependencies>
 
 </project>
